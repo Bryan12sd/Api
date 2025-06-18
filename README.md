@@ -1,9 +1,3 @@
----
-title: "Caso 1"
-author: "Bryan Cordero"
-date: "2025-06-10"
----
-
 # Manual de Usuario – API REST de Gestión de Pedidos
 
 ## Requisitos Previos
